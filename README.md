@@ -7,7 +7,7 @@ A simple and elegant tea shop website built using HTML and CSS as part of Codeca
 [View Here](https://joelperezdev.github.io/thecozytea/)
 
 ## 📸 Screenshots
-![The Cozy Tea Screenshot](screenshot.png) *(Add a screenshot of the project here)*
+![The Cozy Tea Screenshot](/resources/img/screenshoot.png/)
 
 ## 🛠 Technologies Used
 - HTML5
