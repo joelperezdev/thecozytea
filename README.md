@@ -22,8 +22,6 @@ A simple and elegant tea shop website built using HTML and CSS as part of Codeca
    ```
 2. Navigate to the project folder  
    ```sh
-   cd cozy-tea-shop
-   ```
 3. Open `index.html` in your browser.
 
 ## 🎯 Features
