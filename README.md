@@ -1,2 +1,2 @@
 # The Cozy Tea
-This is my HTML / CSS project. The Cozy Tea website.
+This is my codecademy HTML / CSS project. The Cozy Tea website.
