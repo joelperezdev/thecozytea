@@ -21,7 +21,7 @@ A simple and elegant tea shop website built using HTML and CSS as part of Codeca
    https://github.com/joelperezdev/thecozytea.git
    ```
 2. Navigate to the project folder.
-   ``` 
+   
 4. Open `index.html` in your browser.
 
 ## 🎯 Features
