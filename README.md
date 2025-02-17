@@ -18,4 +18,4 @@ A simple and elegant tea shop website built using HTML and CSS as part of Codeca
 ## 🚀 Installation & Usage
 1. Clone the repository  
    ```sh
-   git clone https://github.com/joelperezdev/thecozytea.git
+   https://github.com/joelperezdev/thecozytea.git
