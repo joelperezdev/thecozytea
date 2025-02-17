@@ -1,4 +1,4 @@
-# The Cozy Tea
+# The Cozy Tea 🍵
 This is my codecademy HTML / CSS project. The Cozy Tea website.
 
 A simple and elegant tea shop website built using HTML and CSS as part of Codecademy's project. This project showcases a clean, responsive design for an online tea shop.
